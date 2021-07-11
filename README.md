@@ -1,11 +1,4 @@
 # SaltStack Cheat Sheet
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/hbokh/awesome-saltstack)
-
-This list is partly inspired by the fine lists on:
-* http://www.xenuser.org/saltstack-cheat-sheet/
-* https://github.com/saltstack/salt/wiki/Cheat-Sheet
-
-# Dive into documentation
 
 ## Documentation on the system
 ```
